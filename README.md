@@ -45,6 +45,9 @@ Passionate developer with experience in multiple programming languages ​​and
 <a href="#"><img alt="VSCode" src="https://custom-icon-badges.demolab.com/badge/VSCode-%20?style=flat-square&logo=visualstudio&logoColor=%233c873a&color=303030" height="30px"/></a>
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%20?style=flat-square&logo=androidstudio&logoColor=669933&color=666666" height="30px"/></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-%20?style=flat-square&logo=postman&logoColor=%23fb7505&color=%233f5d65" height="30px"/></a>
+<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%20?style=flat-square&logo=Figma&logoColor=FFFF&color=black" height="30px"/></a>
+<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%20?style=flat-square&logo=notion&logoColor=FFFF&color=black" height="30px"/></a>
+<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%20?style=flat-square&logo=trello&logoColor=%230079bf&color=%23c4c9cc"height="30px"/></a>
 
 <h2>Services & Frameworks: </h2>
 <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%20?style=flat-square&logo=firebase&logoColor=%23FFA611&color=black" height="30px"/></a>
