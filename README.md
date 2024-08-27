@@ -32,6 +32,8 @@ Passionate developer with experience in multiple programming languages ​​and
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%20?style=flat-square&logo=bootstrap&logoColor=%23ffffff&color=%23563d7c" height="30px"/></a>
 <a href="#"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-%20?style=flat-square&logo=dotnet&logoColor=%23c484e4&color=%23041f6a" height="30px"/></a>
 <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%20?style=flat-square&logo=angular&logoColor=%23d4173b&color=%2333344c" height="30px"/></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/React-%20?style=flat-square&logo=react&logoColor=61DBFB&color=black" height="30px"/></a>
+<a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-%20?style=flat-square&logo=Node.js&logoColor=%233c873a&color=%23303030" height="30px"/></a>
 
 <h2>Misc Tools:</h2>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%20?style=flat-square&logo=Git&logoColor=%23f34f29&color=black" height="30px"/></a>
@@ -41,10 +43,8 @@ Passionate developer with experience in multiple programming languages ​​and
 <a href="#"><img alt="sourcetree" src="https://img.shields.io/badge/Sourcetree-%20?style=flat-square&logo=sourcetree&logoColor=2684FF&color=253858" height="30px"/></a>
 <a href="#"><img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-%20?style=flat-square&logo=filezilla&logoColor=BF0000&color=black" height="30px"/></a>
 <a href="#"><img alt="VSCode" src="https://custom-icon-badges.demolab.com/badge/VSCode-%20?style=flat-square&logo=visualstudio&logoColor=%233c873a&color=303030" height="30px"/></a>
-<a href="#"><img alt="" src="https://img.shields.io/badge/FileZilla-%20?style=flat-square&logo=filezilla&logoColor=BF0000&color=black" height="30px"/></a>
-<a href="#"><img alt="" src="https://img.shields.io/badge/FileZilla-%20?style=flat-square&logo=filezilla&logoColor=BF0000&color=black" height="30px"/></a>
-<a href="#"><img alt="NodeJS" src="https://custom-icon-badges.demolab.com/badge/NodeJS-%20?style=flat-square&logo=node&logoColor=%233c873a&color=303030" height="30px"/></a>
-
+<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%20?style=flat-square&logo=androidstudio&logoColor=669933&color=666666" height="30px"/></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-%20?style=flat-square&logo=postman&logoColor=%23fb7505&color=%233f5d65" height="30px"/></a>
 
 <h2>Services & Frameworks: </h2>
 <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%20?style=flat-square&logo=firebase&logoColor=%23FFA611&color=black" height="30px"/></a>
