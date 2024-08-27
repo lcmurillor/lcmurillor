@@ -26,15 +26,33 @@ Passionate developer with experience in multiple programming languages ​​and
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%20?style=flat-square&logo=JavaScript&logoColor=%23f0db4f&color=%23323330" height="30px"/></a>
 
 <h2>Frontend Development:</h2>
+<a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%20?style=flat-square&logo=Flutter&logoColor=%2354c0f4&color=%2334445b" height="30px"/></a>
 <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=HTML5&logoColor=%23e34c26&color=%23000000" height="30px"/></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-%20?style=flat-square&logo=css3&logoColor=%23264de4&color=%23000000" height="30px"/></a>
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%20?style=flat-square&logo=bootstrap&logoColor=%23ffffff&color=%23563d7c" height="30px"/></a>
 <a href="#"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-%20?style=flat-square&logo=dotnet&logoColor=%23c484e4&color=%23041f6a" height="30px"/></a>
 <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%20?style=flat-square&logo=angular&logoColor=%23d4173b&color=%2333344c" height="30px"/></a>
-<a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%20?style=flat-square&logo=Flutter&logoColor=%2354c0f4&color=%2334445b" height="30px"/></a>
 
 <h2>Misc Tools:</h2>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%20?style=flat-square&logo=Git&logoColor=%23f34f29&color=black" height="30px"/></a>
+<a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-%20?style=flat-square&logo=Github&logoColor=%23FFF&color=black" height="30px"/></a>
+<a href="#"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-%20?style=flat-square&logo=Gitlab&logoColor=%23e24329&color=black" height="30px"/></a>
+<a href="#"><img alt="bitbucket" src="https://img.shields.io/badge/Bitbucket-%20?style=flat-square&logo=bitbucket&logoColor=2684FF&color=253858" height="30px"/></a>
+<a href="#"><img alt="sourcetree" src="https://img.shields.io/badge/Sourcetree-%20?style=flat-square&logo=sourcetree&logoColor=2684FF&color=253858" height="30px"/></a>
+<a href="#"><img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-%20?style=flat-square&logo=filezilla&logoColor=BF0000&color=black" height="30px"/></a>
+<a href="#"><img alt="VSCode" src="https://custom-icon-badges.demolab.com/badge/VSCode-%20?style=flat-square&logo=visualstudio&logoColor=%233c873a&color=303030" height="30px"/></a>
+<a href="#"><img alt="" src="https://img.shields.io/badge/FileZilla-%20?style=flat-square&logo=filezilla&logoColor=BF0000&color=black" height="30px"/></a>
+<a href="#"><img alt="" src="https://img.shields.io/badge/FileZilla-%20?style=flat-square&logo=filezilla&logoColor=BF0000&color=black" height="30px"/></a>
+<a href="#"><img alt="NodeJS" src="https://custom-icon-badges.demolab.com/badge/NodeJS-%20?style=flat-square&logo=node&logoColor=%233c873a&color=303030" height="30px"/></a>
+
 
 <h2>Services & Frameworks: </h2>
 <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%20?style=flat-square&logo=firebase&logoColor=%23FFA611&color=black" height="30px"/></a>
+<a href="#"><img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-%20?style=flat-square&logo=aws&logoColor=%23e47911&color=%23232f3e" height="30px"/></a>
+<a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-%20?style=flat-square&logo=spring&logoColor=FFF&color=%238BC34A" height="30px"/></a>
+<a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%20?style=flat-square&logo=springboot&logoColor=FFF&color=%238BC34A" height="30px"/></a>
 
 <h2>Databases:</h2>
+<a href="#"><img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-%20?style=flat-square&logo=mysql&logoColor=FFF&color=00758F" height="30px"/></a>
+<a href="#"><img alt="Microsoft SQL Server" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-%20?style=flat-square&logo=windows&logoColor=FFF&color=CFD8DC" height="30px"/></a>
+<a href="#"><img alt="Oracle SQL Developer" src="https://img.shields.io/badge/Oracle%20SQL%20Developer-%20?style=flat-square&logo=oracle&logoColor=%23f80000&color=black" height="30px"/></a>
