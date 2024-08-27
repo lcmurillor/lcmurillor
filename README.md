@@ -7,7 +7,7 @@ Passionate developer with experience in multiple programming languages ​​and
 <br>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
- - 👨🏻‍🔧 I am currently working on SysCo Consultores de Sistemas.
+ - 👨🏻‍🔧 I am currently working at SysCo Consultores de Sistemas.
  - 👨🏻‍🎓 Bachelor of Information Technology Engineering.
  - 📚 5 years of study at the Universidad Técnica Nacional.
  - 🛠️ 2 years working as a Software Developer.
