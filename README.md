@@ -13,3 +13,7 @@ Passionate developer with experience in multiple programming languages ​​and
  - 🛠️ 2 years working as a Software Developer.
  - 💬 Ask me about anything, I love to answer.
  - 📨 Feel free to contact me on:
+
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%20?style=flat&logo=LinkedIn&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flcmurillor%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-%20?style=flat&logo=WhatsApp&logoColor=%23FFF&color=%2325D366&link=https%3A%2F%2Fwa.me%2F50683574730">
+
