@@ -56,3 +56,9 @@ Passionate developer with experience in multiple programming languages ​​and
 <a href="#"><img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-%20?style=flat-square&logo=mysql&logoColor=FFF&color=00758F" height="30px"/></a>
 <a href="#"><img alt="Microsoft SQL Server" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-%20?style=flat-square&logo=windows&logoColor=FFF&color=CFD8DC" height="30px"/></a>
 <a href="#"><img alt="Oracle SQL Developer" src="https://img.shields.io/badge/Oracle%20SQL%20Developer-%20?style=flat-square&logo=oracle&logoColor=%23f80000&color=black" height="30px"/></a>
+
+<h1>📈GitHub Stats:</h1>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lcmurillor&theme=dark)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lcmurillor&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcmurillor&size_weight=0.5&count_weight=0.5&theme=dark)
