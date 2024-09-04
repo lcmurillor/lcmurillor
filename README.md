@@ -31,9 +31,6 @@ Passionate developer with experience in multiple programming languages ​​and
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-%20?style=flat-square&logo=css3&logoColor=%23264de4&color=%23000000" height="30px"/></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%20?style=flat-square&logo=bootstrap&logoColor=%23ffffff&color=%23563d7c" height="30px"/></a>
 <a href="#"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-%20?style=flat-square&logo=dotnet&logoColor=%23c484e4&color=%23041f6a" height="30px"/></a>
-<a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%20?style=flat-square&logo=angular&logoColor=%23d4173b&color=%2333344c" height="30px"/></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/React-%20?style=flat-square&logo=react&logoColor=61DBFB&color=black" height="30px"/></a>
-<a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-%20?style=flat-square&logo=Node.js&logoColor=%233c873a&color=%23303030" height="30px"/></a>
 
 <h2>Misc Tools:</h2>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%20?style=flat-square&logo=Git&logoColor=%23f34f29&color=black" height="30px"/></a>
@@ -49,13 +46,16 @@ Passionate developer with experience in multiple programming languages ​​and
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%20?style=flat-square&logo=notion&logoColor=FFFF&color=black" height="30px"/></a>
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%20?style=flat-square&logo=trello&logoColor=%230079bf&color=%23c4c9cc"height="30px"/></a>
 
-<h2>Services & Frameworks: </h2>
-<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%20?style=flat-square&logo=firebase&logoColor=%23FFA611&color=black" height="30px"/></a>
-<a href="#"><img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-%20?style=flat-square&logo=aws&logoColor=%23e47911&color=%23232f3e" height="30px"/></a>
+<h2>Frameworks:</h2>
 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-%20?style=flat-square&logo=spring&logoColor=FFF&color=%238BC34A" height="30px"/></a>
 <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%20?style=flat-square&logo=springboot&logoColor=FFF&color=%238BC34A" height="30px"/></a>
+<a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-%20?style=flat-square&logo=Node.js&logoColor=%233c873a&color=%23303030" height="30px"/></a>
+<a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%20?style=flat-square&logo=angular&logoColor=%23d4173b&color=%2333344c" height="30px"/></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-%20?style=flat-square&logo=react&logoColor=61DBFB&color=black" height="30px"/></a>
 
-<h2>Databases:</h2>
+<h2>Services & Databases:</h2>
+<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%20?style=flat-square&logo=firebase&logoColor=%23FFA611&color=black" height="30px"/></a>
+<a href="#"><img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-%20?style=flat-square&logo=aws&logoColor=%23e47911&color=%23232f3e" height="30px"/></a>
 <a href="#"><img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-%20?style=flat-square&logo=mysql&logoColor=FFF&color=00758F" height="30px"/></a>
 <a href="#"><img alt="Microsoft SQL Server" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-%20?style=flat-square&logo=windows&logoColor=FFF&color=CFD8DC" height="30px"/></a>
 <a href="#"><img alt="Oracle SQL Developer" src="https://img.shields.io/badge/Oracle%20SQL%20Developer-%20?style=flat-square&logo=oracle&logoColor=%23f80000&color=black" height="30px"/></a>
